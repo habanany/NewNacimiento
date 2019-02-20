@@ -1,8 +1,8 @@
 ## Welcome HOME 
 
-Learn more about "New Beginning-Nuevo Nacimiento" church
+## Learn more about "New Beginning-Nuevo Nacimiento" church
 
-Pastors Abraham Santana and Kevin Percey
+## Pastors Abraham Santana and Kevin Percey
 
 You can use the [editor on GitHub](https://github.com/habanany/NewNacimiento/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
