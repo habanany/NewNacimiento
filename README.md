@@ -1,4 +1,4 @@
-<header1> welcome home <header1/>
+## welcome home 
 
 ## Learn more about "New Beginning-Nuevo Nacimiento" church
 
